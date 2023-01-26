@@ -1,0 +1,16 @@
+{
+  "name": "erc721a-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo Komiyama",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "erc721a": "^4.2.3",
+    "hardhat": "^2.12.6"
+  }
+}
